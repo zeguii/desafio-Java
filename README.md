@@ -4,11 +4,11 @@ Este projeto é uma API REST desenvolvida em Java com Spring Boot para o gerenci
 
 ## **🚀 Funcionalidades Principais**
 
-*   **Enriquecimento de Dados de Localização**: Integração com a API ViaCEP para preenchimento automático de logradouro e localidade a partir do CEP informado[cite: 1].
-*   **Conversão de Moeda em Tempo Real**: Integração com a AwesomeAPI (Economia API) para conversão automática de despesas em moedas estrangeiras (USD, EUR, ARS, etc.) para Real (BRL)[cite: 1].
-*   **Gestão de Entidades**: Cadastro e relacionamento entre Usuários, Categorias e Despesas (relacionamento ManyToOne)[cite: 1].
-*   **Persistência de Dados**: Utilização de Spring Data JPA com banco de dados H2 (em memória) para facilitar testes e demonstrações[cite: 1].
-*   **Documentação Automática**: Interface visual via Swagger UI para teste de todos os endpoints[cite: 1].
+*   **Enriquecimento de Dados de Localização**: Integração com a API ViaCEP para preenchimento automático de logradouro e localidade a partir do CEP informado.
+*   **Conversão de Moeda em Tempo Real**: Integração com a AwesomeAPI (Economia API) para conversão automática de despesas em moedas estrangeiras (USD, EUR, ARS, etc.) para Real (BRL).
+*   **Gestão de Entidades**: Cadastro e relacionamento entre Usuários, Categorias e Despesas (relacionamento ManyToOne).
+*   **Persistência de Dados**: Utilização de Spring Data JPA com banco de dados H2 (em memória) para facilitar testes e demonstrações.
+*   **Documentação Automática**: Interface visual via Swagger UI para teste de todos os endpoints.
 
 ## **🛠️ Tecnologias Utilizadas**
 
